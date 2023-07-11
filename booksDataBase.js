@@ -13,5 +13,11 @@ const books = [
     genre: "Noval",
     quantity: 1,
   },
+  {
+    title: "Anna Karenina",
+    author: "Tolstoy",
+    genre: "Noval",
+    quantity: 1,
+  },
 ];
 module.exports = books;
